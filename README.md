@@ -16,7 +16,7 @@ This version is focused on improving performance, UI experience, and separating 
 ## 🚀 Getting Started
 
 ```
-git clone https://github.com/HavensGrace/Grace-Client.git
+git clone https://github.com/HavensGrace/GraceClient.git
 cd Grace-Client
 ```
 
