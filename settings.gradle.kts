@@ -20,11 +20,11 @@ dependencyResolutionManagement {
         google()
         mavenLocal()
         mavenCentral()
+        maven("https://jitpack.io")
         maven("https://repo.opencollab.dev/maven-snapshots")
         maven("https://repo.opencollab.dev/maven-releases")
-        maven("https://mccheatz.github.io/maven_repo")
     }
 }
 
-rootProject.name = "MuCuteClient"
+rootProject.name = "Grace Client"
 include(":app")
